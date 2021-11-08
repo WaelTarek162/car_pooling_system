@@ -1,0 +1,3 @@
+This project made with java language 
+this project is console
+this project satisfy oop concepts
